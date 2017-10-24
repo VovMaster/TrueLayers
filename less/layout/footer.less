@@ -1,0 +1,45 @@
+.footer-contact{
+	background-color: @yellow;
+	padding: 35px 0 29px;
+	margin: 72px 0 84px;
+	color: @dark-blue;
+	line-height: 1.1;
+	font-size: 28px;
+	font-weight: 500;
+	p{
+		margin-bottom: 0;	
+		padding-top: 10px;
+	}
+}
+.main-footer{
+	background-color: @dark-gray;
+	color: @white;
+	font-weight: 300;
+	font-size: 18px;
+	padding-bottom: 48px;
+	ul{
+		list-style: none;
+		padding: 0;
+		li{
+			position: relative;
+			padding-left: 40px;
+			margin-bottom: 10px;
+			&:after{
+				content: "";
+				width: 9px;
+				height: 9px;
+				border-radius: 100%;
+				border: 1px solid @white;
+				position: absolute;
+				left: 14px;
+				top: 9px;
+			}
+		}
+	}
+	h4, a{
+		color: @white;
+	}
+	h4{
+		margin-bottom: 18px;
+	}
+}

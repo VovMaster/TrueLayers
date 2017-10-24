@@ -1,0 +1,315 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: tls2017_v6en-truelayers-salma.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1560 px x 2283 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:
+FreeSans* (not installed)
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Arial (OTF)
+Arial Black (OTF)
+Arial Bold (OTF)
+Roboto Medium (TrueType)
+Roboto Light (TrueType)
+Roboto Bold (TrueType)
+Roboto Black (TrueType)
+Roboto (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\home_hero_slide.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 5988K, 2800 by 730 pixels
+Dimensions: 2800 by 730 points 
+Resolution: 72 by 72 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\e2-apt10-1-500x500 (1).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 732K, 500 by 500 pixels
+Dimensions: 745 by 745 points 
+Resolution: 48.322 by 48.322 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\tmp_dachunterbahn.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1251K, 800 by 534 pixels
+Dimensions: 608.936 by 406.465 points 
+Resolution: 94.591 by 94.591 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\temp_dachunterbahn_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1251K, 800 by 534 pixels
+Dimensions: 611.145 by 407.939 points 
+Resolution: 94.249 by 94.249 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\tmp_dachunterbahn.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1251K, 800 by 534 pixels
+Dimensions: 281.024 by 187.583 points 
+Resolution: 204.965 by 204.965 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\tmp_dachunterbahn.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1251K, 800 by 534 pixels
+Dimensions: 281.024 by 187.583 points 
+Resolution: 204.965 by 204.965 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\tmp_dachunterbahn.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1251K, 800 by 534 pixels
+Dimensions: 281.024 by 187.583 points 
+Resolution: 204.965 by 204.965 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\tmp_dachunterbahn.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1251K, 800 by 534 pixels
+Dimensions: 281.024 by 187.583 points 
+Resolution: 204.965 by 204.965 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\tmp_dachunterbahn.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1251K, 800 by 534 pixels
+Dimensions: 608.936 by 406.465 points 
+Resolution: 94.591 by 94.591 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\tmp_dachunterbahn.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1251K, 800 by 534 pixels
+Dimensions: 608.936 by 406.465 points 
+Resolution: 94.591 by 94.591 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\e2-apt10-1-500x500.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 732K, 500 by 500 pixels
+Dimensions: 410 by 410 points 
+Resolution: 87.805 by 87.805 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\dampfbremse.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2812K, 1200 by 800 pixels
+Dimensions: 675.701 by 450.467 points 
+Resolution: 127.867 by 127.867 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\e2-apt10-1-500x500 (1).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 732K, 500 by 500 pixels
+Dimensions: 89.944 by 89.944 points 
+Resolution: 400.251 by 400.251 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\dampfbremse.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2812K, 1200 by 800 pixels
+Dimensions: 134.915 by 89.944 points 
+Resolution: 640.401 by 640.401 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\temp_dachunterbahn_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1251K, 800 by 534 pixels
+Dimensions: 148.753 by 99.293 points 
+Resolution: 387.219 by 387.219 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\e2-apt10-1-500x500 (1).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 732K, 500 by 500 pixels
+Dimensions: 89.944 by 89.944 points 
+Resolution: 400.251 by 400.251 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\collage_domoreless.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 58687K, 6000 by 2504 pixels
+Dimensions: 1725 by 709.091 points 
+Resolution: 250.435 by 254.252 pixels per inch
+
+
+C:\Users\lenovo\Downloads\1481751755_icon-arrow-down-b.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 64K, 128 by 128 pixels
+Dimensions: 21.06 by 21.06 points 
+Resolution: 437.607 by 437.607 pixels per inch
+
+
+C:\Users\lenovo\Downloads\1481751755_icon-arrow-down-b.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 64K, 128 by 128 pixels
+Dimensions: 21.06 by 21.06 points 
+Resolution: 437.607 by 437.607 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\SOFORT-Ueberweisung_productnavigation.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 25K, 144 by 45 pixels
+Dimensions: 144 by 45 points 
+Resolution: 72 by 72 pixels per inch
+
+
+C:\Users\lenovo\Downloads\1481751755_icon-arrow-down-b.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 64K, 128 by 128 pixels
+Dimensions: 23.4 by 23.4 points 
+Resolution: 393.846 by 393.846 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\logo.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 20K, 96 by 54 pixels
+Dimensions: 109 by 61.312 points 
+Resolution: 63.413 by 63.413 pixels per inch
+
+
+C:\Users\lenovo\Downloads\1481751755_icon-arrow-down-b.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 64K, 128 by 128 pixels
+Dimensions: 21.06 by 21.06 points 
+Resolution: 437.607 by 437.607 pixels per inch
+
+
+C:\Users\lenovo\Downloads\1481751755_icon-arrow-down-b.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 64K, 128 by 128 pixels
+Dimensions: 21.06 by 21.06 points 
+Resolution: 437.607 by 437.607 pixels per inch
+
+
+C:\Users\lenovo\Downloads\1481751755_icon-arrow-down-b.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 64K, 128 by 128 pixels
+Dimensions: 23.4 by 23.4 points 
+Resolution: 393.846 by 393.846 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\e2-apt10-1-500x500 (1).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 732K, 500 by 500 pixels
+Dimensions: 89.944 by 89.944 points 
+Resolution: 400.251 by 400.251 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\logo.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 20K, 96 by 54 pixels
+Dimensions: 66 by 37.125 points 
+Resolution: 104.727 by 104.727 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\e2-apt10-1-500x500 (1).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 732K, 500 by 500 pixels
+Dimensions: 89.944 by 89.944 points 
+Resolution: 400.251 by 400.251 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\dampfbremse.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2812K, 1200 by 800 pixels
+Dimensions: 134.915 by 89.944 points 
+Resolution: 640.401 by 640.401 pixels per inch
+
+
+C:\Users\lenovo\Desktop\Robert Jobs\Links\temp_dachunterbahn_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1251K, 800 by 534 pixels
+Dimensions: 148.753 by 99.293 points 
+Resolution: 387.219 by 387.219 pixels per inch
