@@ -22,15 +22,14 @@
 	line-height: 28px;
 	font-family: "Roboto";
 	letter-spacing: 0;
-	/*color: @lightest-gray;*/
 	outline: none;
-	border: 2px solid @lightest-gray;
+	border: 1px solid @lightest-gray;
 	background: #fff;
 	display: block;
 	width: 100%;
 	border-radius: 0;
-	padding: 0 50px 0 20px;
-	height: 63px;
+	padding: 0 70px 0 46px;
+	height: 64px;
 	letter-spacing: 0;
 	&:focus {
 		border: 2px solid #FBC009;
@@ -44,31 +43,30 @@ select.form-control{
 	-moz-appearance: none;
 	appearance: none;
 	color: rgba(127, 127, 127, 0.49);
-	position: relative;
-	&:before{
-		content: "etyh";
-		position: absolute;
-		top: 0;
-		right: 0;
-		width: 20px;
-		height: 20px;
-		background-color: #f0f;
-		display: block;
-	}
 	&:focus {
 		color: #050607;
 	}
 }
+textarea.form-control{
+	min-height: 140px;
+	resize: none;
+	font-size: 18px;
+	line-height: 26px;
+	padding-top: 18px;
+}
 .form-style{
 	background-color: #fff;
 	border-top: 3px solid #FFC200;
+	padding: 47px 56px 0;
 	h3{
 		color: @dark-blue;
 	}
 }
 .form-group {
 	position: relative;
-	margin-bottom: 10px;
+	margin-bottom: 14px;
+	padding-top: 20px;
+	& +.title{margin: 77px 0 13px;}
 }
 .form-search-btn {
 	background-color: transparent;

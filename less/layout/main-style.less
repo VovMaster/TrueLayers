@@ -278,7 +278,62 @@ img{
 	background-repeat: no-repeat;
 	background-position: 50% 0;
 }
-
+.title{
+	font-size: 22px;
+	color: @dark-blue;
+	font-weight: 500;
+	margin: 24px 0 11px;
+	/*margin: 77px 0 13px;*/
+}
+.progress{
+	padding: 30px 0;
+	margin-bottom: 18px;
+	background-color: #fff;
+	li{
+		float: left;
+		list-style: none;
+		font-size: 24px;
+		color: #D6D6D6;
+		font-weight: 500;
+		width: 25%;
+		text-align: center;
+		> div{
+			background-color: #BFBFBF;
+			color: #fff;
+			font-weight: bold;
+			font-size: 16px;
+			line-height: 27px;
+			display: inline-block;
+			border-radius: 100%;
+			width: 27px;
+			height: 27px;
+			text-align: center;
+			vertical-align: middle;
+			margin: -4px 10px 0 0;
+		}
+		&.active{
+			color: @dark-blue;
+			> div{
+				background-color: #F7981D;
+			}
+		}
+	}
+}
+.row20{
+	margin-right: -40px;
+	margin-left: -40px;
+	&:before, &:after{
+	    display: table;
+	    content: '';
+	}
+	  &:after{
+	    clear: both;
+	}
+	> *{
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+}
 @media (max-width: 1280px) {
 	.main-width {
 		padding: 0 50px;
