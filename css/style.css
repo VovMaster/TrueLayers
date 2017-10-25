@@ -1613,6 +1613,56 @@ textarea.form-control {
 .form-control2:focus {
   border-color: #000;
 }
+.table-style {
+  font-size: 18px;
+  width: 100%;
+}
+.table-style thead tr th {
+  font-size: 20px;
+  font-weight: 500;
+  color: #2e4763;
+}
+.table-style thead tr th:first-child {
+  text-align: left;
+}
+.table-style td {
+  text-align: center;
+}
+.table-style td:first-child {
+  text-align: left;
+}
+.table-style img {
+  display: inline-block;
+  margin-right: 20px;
+}
+.table-style img + p {
+  display: inline-block;
+}
+.title-mobile {
+  display: none;
+}
+.quantity {
+  /*	border-radius: 12px;*/
+  height: 35px;
+  background-color: #f5f5f5;
+  line-height: 35px;
+}
+.quantity > div {
+  display: inline-block;
+  text-align: center;
+  width: 27px;
+}
+.number {
+  border-left: 1px solid #EAEAEA;
+  border-right: 1px solid #EAEAEA;
+  width: 35px;
+}
+.increase {
+  border-radius: 0 12px 12px 0;
+}
+.icon-delete {
+  color: #FBC009;
+}
 html,
 body {
   height: 100%;

@@ -1,0 +1,55 @@
+.table-style{
+	font-size: 18px;
+	width: 100%;
+	thead{
+		tr{
+			th{
+				font-size: 20px;
+				font-weight: 500;
+				color: @dark-blue;
+				&:first-child{
+					text-align: left;
+				}
+			}
+		}
+	}
+	td{
+		text-align: center;
+		&:first-child{
+			text-align: left;
+		}
+	}
+	img{
+		display: inline-block;
+		margin-right: 20px;
+		&+p{
+			display: inline-block;
+		}
+	}
+
+}
+.title-mobile{
+	display: none;
+}
+.quantity{
+/*	border-radius: 12px;*/
+	height: 35px;
+	background-color: @lightest-gray;
+	line-height: 35px;
+	> div{
+		display: inline-block;
+		text-align: center;
+		width: 27px;
+	}
+}
+.number{
+	border-left: 1px solid #EAEAEA;
+	border-right: 1px solid #EAEAEA;
+	width: 35px;
+}
+.increase{
+	border-radius: 0 12px 12px 0;
+}
+.icon-delete{
+	color: #FBC009;
+}
