@@ -53,9 +53,6 @@ img{
 	display: block;
 	height: auto;
 }
-.dark-blue{
-	color: @dark-blue;
-}
 .text-center{
 	text-align: center;
 }
@@ -305,14 +302,14 @@ img{
 }
 .title{
 	font-size: 22px;
-	color: @dark-blue;
 	font-weight: 500;
 	margin: 24px 0 11px;
+	color: @black; 
 }
 .section-block{
 	background-image: url(../images/bg-image.png);
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100% auto;
 	background-color: @dark-blue;
 	text-align: center;
 }
@@ -327,6 +324,27 @@ img{
 		min-height: 451px;
 		display: inline-block;
 		vertical-align: middle;
+	}
+}
+.wrap-bloks{
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+.one-block{
+	/*padding-top: 125px;
+	padding-bottom: 53px;*/
+	padding: 90px 0;
+	.title{
+		margin: 24px 0 18px;
+	}
+}
+.wrap-image{
+	margin-top: 67px;
+}
+.wrap-drawing{
+	margin-top: 25px;
+	img{
+		width: 100%;
 	}
 }
 .progress{
@@ -377,6 +395,9 @@ img{
 		padding-left: 40px;
 		padding-right: 40px;
 	}
+}
+.dark-blue{
+	color: @dark-blue;
 }
 @media (max-width: 1280px) {
 	.main-width {

@@ -1514,6 +1514,9 @@ textarea.form-control {
 .form-style h3 {
   color: #2e4763;
 }
+.form-style .title {
+  color: #2e4763;
+}
 .form-group {
   position: relative;
   margin-bottom: 14px;
@@ -1649,9 +1652,6 @@ img {
   max-width: 100%;
   display: block;
   height: auto;
-}
-.dark-blue {
-  color: #2e4763;
 }
 .text-center {
   text-align: center;
@@ -1899,14 +1899,14 @@ img {
 }
 .title {
   font-size: 22px;
-  color: #2e4763;
   font-weight: 500;
   margin: 24px 0 11px;
+  color: #000000;
 }
 .section-block {
   background-image: url(../images/bg-image.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% auto;
   background-color: #2e4763;
   text-align: center;
 }
@@ -1922,6 +1922,27 @@ img {
   min-height: 451px;
   display: inline-block;
   vertical-align: middle;
+}
+.wrap-bloks {
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+.one-block {
+  /*padding-top: 125px;
+	padding-bottom: 53px;*/
+  padding: 90px 0;
+}
+.one-block .title {
+  margin: 24px 0 18px;
+}
+.wrap-image {
+  margin-top: 67px;
+}
+.wrap-drawing {
+  margin-top: 25px;
+}
+.wrap-drawing img {
+  width: 100%;
 }
 .progress {
   padding: 30px 0;
@@ -1972,6 +1993,9 @@ img {
 .row20 > * {
   padding-left: 40px;
   padding-right: 40px;
+}
+.dark-blue {
+  color: #2e4763;
 }
 @media (max-width: 1280px) {
   .main-width {
