@@ -16,6 +16,34 @@ html, body {
 p, ul, ol {
 	margin: 0 0 30px;
 }
+.typography {
+	p, ul, ol {
+		margin-bottom: 22px;
+	}
+	h5 {
+		margin-top: 50px;
+		font-size: 22px;
+		font-weight: 500;
+	}
+	ul {
+		list-style: none;
+		padding-left: 27px;
+	}
+	li {
+		position: relative;
+		&:after {
+			content: " ";
+			display: block;
+			height: 4px;
+			width: 4px;
+			border-radius: 100%;
+			background: #7f7f7f;
+			position: absolute;
+			top: 14px;
+			left: -17px;
+		}
+	}
+}
 .main-width {
 	max-width: 1320px;
 	margin: auto;
@@ -77,6 +105,10 @@ img{
 }
 .one-product-description{
 	padding-top: 52px;
+	h3 {
+		font-size: 40px;
+		margin-bottom: 33px;
+	}
 }
 .white-line{
 	height: 3px;
@@ -124,14 +156,15 @@ img{
 		font-weight: 400;
 	}
 	&.lg{
-		font-size: 20px;
-		> div{
-			font-size: 22px;
-			margin-bottom: 8px;
+		font-size: 22px;
+		margin-bottom: 8px;
+		.price {
+			font-size: 60px;
+		}
+		span {
+			font-size: 20px;
 			display: block;
-			b{
-				font-size: 60px;
-			}
+			margin-top: 7px;
 		}
 	}
 }
@@ -157,6 +190,21 @@ img{
 	}
 	.wrap-btn{
 		margin-top: 42px;
+	}
+}
+.product-blocks-small {
+	padding-top: 6px;
+	.product-block {
+		padding-bottom: 34px;
+		font-size: 12px;
+		line-height: 22px;
+	}
+	h5 {
+		font-size: 18px;
+		margin-bottom: 11px;
+	}
+	.wrap-img {
+		height: 183px;
 	}
 }
 .wrap-img{
@@ -260,7 +308,7 @@ img{
 		margin-right: 8px;
 		vertical-align: middle;
 	}
-	.icon-samples{
+	.icon-semples{
 		font-size: 38px;
 	}
 	.icon-download{
@@ -268,34 +316,12 @@ img{
 	}
 }
 .text-style {
-	padding-top: 30px;
-	p {
-	}
-	h5 {
-		margin-top: 50px;
-	}
+	padding-top: 51px;
 	> *:first-child {
 		margin-top: 0;
 	}
-	ul {
-		list-style: none;
-		padding-left: 27px;
-	}
-	li {
-		position: relative;
-		&:after {
-			content: " ";
-			display: block;
-			height: 4px;
-			width: 4px;
-			border-radius: 100%;
-			background: #7f7f7f;
-			position: absolute;
-			top: 14px;
-			left: -17px;
-		}
-	}
 }
+
 .main-nav-btn {
 	display: none;
 }
@@ -543,7 +569,7 @@ img{
 		height: 48px;
 	}
 	.link-style {
-		.icon-samples{
+		.icon-semples{
 			font-size: 22px;
 		}
 	}
