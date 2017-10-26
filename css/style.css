@@ -1489,9 +1489,10 @@ h6,
   padding: 0 70px 0 46px;
   height: 64px;
   letter-spacing: 0;
+  color: #1D1D1B;
 }
 .form-control:focus {
-  border: 2px solid #FBC009;
+  border-color: #FBC009;
 }
 select.form-control {
   background-image: url(../images/arrow-bottom.png);
@@ -1558,18 +1559,6 @@ textarea.form-control {
 *:-moz-placeholder {
   color: rgba(127, 127, 127, 0.49);
   opacity: 1;
-}
-*:focus::-webkit-input-placeholder {
-  color: #050607;
-}
-*:focus::-moz-placeholder {
-  color: #050607;
-}
-*:focus:-ms-input-placeholder {
-  color: #050607;
-}
-*:focus:-moz-placeholder {
-  color: #050607;
 }
 .form-control-style::-webkit-input-placeholder {
   color: #4C4C4C;
@@ -1785,6 +1774,9 @@ img {
   font-size: 22px;
   font-weight: 500;
 }
+.product-block h5 a {
+  color: inherit;
+}
 .product-block p {
   margin-bottom: 10px;
 }
@@ -1812,6 +1804,7 @@ img {
 }
 .wrap-img {
   height: 400px;
+  display: block;
   text-align: center;
   font-size: 0;
 }
@@ -1937,24 +1930,38 @@ img {
   color: #000000;
 }
 .section-block {
-  background-image: url(../images/bg-image.png);
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-color: #2e4763;
+  color: #fff;
+  font-size: 0;
   text-align: center;
+}
+.section-block .main-width > div {
+  font-size: 22px;
+  line-height: 30px;
+  display: inline-block;
+  vertical-align: middle;
+  width: 100%;
+}
+.section-block .main-width:after {
+  content: " ";
+  display: inline-block;
+  vertical-align: middle;
+  height: 450px;
+}
+.section-block-contact {
+  text-align: left;
+}
+.section-block-contact .main-width > div {
+  width: 43%;
+  padding-left: 110px;
+  padding-bottom: 22px;
 }
 .section-title {
   font-weight: 900;
   font-size: 44px;
   color: #ffffff;
-  display: inline-block;
-  vertical-align: middle;
-}
-.section-title:after {
-  content: "";
-  min-height: 451px;
-  display: inline-block;
-  vertical-align: middle;
 }
 .wrap-bloks {
   padding-top: 35px;
@@ -2029,6 +2036,18 @@ img {
 }
 .dark-blue {
   color: #2e4763;
+}
+.contact {
+  max-width: 1160px;
+  margin: auto;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.18);
+  background: #fff;
+}
+.contact:after {
+  content: " ";
+  display: block;
+  width: 40%;
+  background: #F4F5F5;
 }
 @media (max-width: 1280px) {
   .main-width {
