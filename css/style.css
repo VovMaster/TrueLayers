@@ -1414,7 +1414,7 @@ h6,
 .footer-contact {
   background-color: #ffc200;
   padding: 35px 0 29px;
-  margin: 72px 0 84px;
+  margin: 0 0 84px;
   color: #2e4763;
   line-height: 1.1;
   font-size: 28px;
@@ -1496,7 +1496,7 @@ h6,
 }
 select.form-control {
   background-image: url(../images/arrow-bottom.png);
-  background-position: 96% 50%;
+  background-position: 100% 50%;
   background-repeat: no-repeat;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -1870,6 +1870,9 @@ img {
   vertical-align: middle;
   max-height: 100%;
 }
+.main-section {
+  padding-bottom: 50px;
+}
 .main-section-text {
   font-size: 36px;
   color: #6d899b;
@@ -1986,6 +1989,7 @@ img {
   color: #fff;
   font-size: 0;
   text-align: center;
+  padding-bottom: 175px;
 }
 .section-block .main-width > div {
   font-size: 22px;
@@ -2035,20 +2039,23 @@ img {
   width: 100%;
 }
 .progress {
-  padding: 30px 0;
+  padding: 30px 80px;
   margin-bottom: 18px;
   background-color: #fff;
+  text-align: justify;
+  font-size: 0;
 }
 .progress li {
-  float: left;
+  display: inline-block;
   list-style: none;
   font-size: 24px;
   color: #D6D6D6;
   font-weight: 500;
-  width: 25%;
-  text-align: center;
 }
-.progress li > div {
+.progress li a {
+  color: inherit;
+}
+.progress li div {
   background-color: #BFBFBF;
   color: #fff;
   font-weight: bold;
@@ -2065,8 +2072,13 @@ img {
 .progress li.active {
   color: #2e4763;
 }
-.progress li.active > div {
+.progress li.active div {
   background-color: #F7981D;
+}
+.progress:after {
+  content: " ";
+  display: inline-block;
+  width: 100%;
 }
 .row20 {
   margin-right: -40px;
@@ -2092,12 +2104,137 @@ img {
   margin: auto;
   box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.18);
   background: #fff;
+  border: none;
+  position: relative;
+  padding-top: 33px;
+  padding-right: 0;
+  padding-bottom: 25px;
+}
+.contact:before {
+  content: " ";
+  display: block;
+  width: 33%;
+  background: #F4F5F5;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
 }
 .contact:after {
   content: " ";
   display: block;
-  width: 40%;
-  background: #F4F5F5;
+  clear: both;
+  width: 100%;
+}
+.contact .title {
+  font-size: 25px;
+  font-weight: 400;
+  margin-bottom: 18px;
+}
+.contact .btn {
+  float: right;
+}
+.contact .icon-letter {
+  color: #FCC10F;
+  position: absolute;
+  top: 23px;
+  right: -113px;
+  font-size: 27px;
+}
+.contact textarea.form-control {
+  min-height: 187px;
+  font-size: 22px;
+  line-height: 26px;
+  padding-top: 18px;
+}
+.contact-item {
+  padding-left: 44px;
+  font-size: 22px;
+  line-height: 30px;
+  color: #7F7F7F;
+  margin-top: 56px;
+}
+.contact-item li {
+  list-style: none;
+  position: relative;
+  margin-bottom: 33px;
+}
+.contact-item .icon {
+  position: absolute;
+  font-size: 29px;
+  color: #FCC10F;
+  top: 4px;
+  left: -34px;
+}
+.contact-item .icon-phone {
+  font-size: 26px;
+  top: 9px;
+  left: -38px;
+}
+.contact-item .icon-amp {
+  font-size: 28px;
+  top: 3px;
+  left: -37px;
+}
+.form-group {
+  position: relative;
+}
+.form-group:after {
+  content: " ";
+  display: block;
+  clear: both;
+  width: 100%;
+}
+.wrap-contact {
+  background: #f5f5f5;
+  margin-top: -278px;
+  padding-bottom: 80px;
+}
+.contact-left {
+  float: left;
+  width: 50%;
+  position: relative;
+  z-index: 2;
+}
+.contact-right {
+  float: right;
+  width: 35%;
+  padding: 0 33px;
+  position: relative;
+  z-index: 2;
+}
+.logo-contact {
+  margin-top: 208px;
+  margin-bottom: 26px;
+}
+.logo-contact img {
+  margin: 0;
+}
+.sosial {
+  text-align: justify;
+  padding: 0;
+  font-size: 44px;
+}
+.sosial li {
+  display: inline-block;
+}
+.sosial a {
+  display: block;
+  color: #7F7F7F;
+  text-decoration: none;
+}
+.sosial .icon {
+  overflow: hidden;
+  width: 45px;
+  height: 45px;
+  display: block;
+}
+.sosial:after {
+  content: " ";
+  display: inline-block;
+  width: 100%;
+  text-align: justify;
 }
 @media (max-width: 1280px) {
   .main-width {
